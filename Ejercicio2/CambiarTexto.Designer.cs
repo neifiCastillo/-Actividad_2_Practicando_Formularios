@@ -64,6 +64,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "CambiarTexto";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "CambiarTexto";
             ResumeLayout(false);
             PerformLayout();
