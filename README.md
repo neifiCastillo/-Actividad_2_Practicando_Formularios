@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ5YjNua2MyeDQ1djFyeWR6dzZmMG9ndmNkY3RsNjVmZzNnazNkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kl5ctZSctCbE4/giphy.gif" alt="Banner" width="100%">
 </p>
 
 ![.NET](https://img.shields.io/badge/.NET-8-blue)
